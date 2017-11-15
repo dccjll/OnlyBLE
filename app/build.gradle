@@ -27,5 +27,5 @@ dependencies {
 
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     implementation project(':libbluetoothle')
-    implementation 'com.github.dccjll:OnlyBLE:1.0.4'
+//    implementation 'com.github.dccjll:OnlyBLE:1.0.4'
 }
